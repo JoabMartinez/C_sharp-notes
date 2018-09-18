@@ -3,7 +3,8 @@ Here are all my notes for C# if I ever get stuck and/or learn something new.
 References:
 https://www.youtube.com/watch?v=tzq-DJeNIrU&t=19s
 
-9_18_2018
+9_17_2018
+Introduction
 
 Key Terms -
 Public - Accessable outside of the script. (can be seen elsewhere, can be seen in the inspector)
@@ -33,3 +34,6 @@ Void - Will always be private
   ex. void NewDeath()
 You can make a function public if you want it to be accessed outside of the script.
   ex. public void NewDeath()
+  
+ 9_18_2018
+ Trigger Events
